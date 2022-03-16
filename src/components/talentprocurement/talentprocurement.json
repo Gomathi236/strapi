@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_talentprocurement_talentprocurements",
+  "info": {
+    "displayName": "talentprocurement",
+    "icon": "arrow-circle-right"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

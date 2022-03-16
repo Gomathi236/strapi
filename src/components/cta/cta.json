@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_cta_ctas",
+  "info": {
+    "displayName": "cta",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    },
+    "galabel": {
+      "type": "string"
+    }
+  }
+}

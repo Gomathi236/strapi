@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_corporate_services_corporate_services",
+  "info": {
+    "displayName": "corporateServices",
+    "icon": "angle-down"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

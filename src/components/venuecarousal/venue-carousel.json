@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_venuecarousal_venue_carousels",
+  "info": {
+    "displayName": "VenueCarousel",
+    "icon": "arrow-alt-circle-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "active": {
+      "type": "boolean"
+    },
+    "gaCategory": {
+      "type": "string"
+    },
+    "showdescription": {
+      "type": "boolean"
+    },
+    "labels": {
+      "type": "component",
+      "repeatable": false,
+      "component": "labels.labels"
+    }
+  }
+}

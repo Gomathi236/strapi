@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_marketing_communication_marketingcommunications",
+  "info": {
+    "displayName": "marketingcommunication",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

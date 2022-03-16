@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_childform_childforms",
+  "info": {
+    "displayName": "Childform",
+    "icon": "balance-scale",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "newsletter": {
+      "type": "enumeration",
+      "enum": [
+        "newsletter",
+        "contactform"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "bordered": {
+      "type": "boolean",
+      "default": true
+    },
+    "gaCategory": {
+      "type": "string"
+    },
+    "galabelsuccess": {
+      "type": "string"
+    },
+    "galabelerror": {
+      "type": "string"
+    },
+    "markdown": {
+      "type": "string"
+    }
+  }
+}

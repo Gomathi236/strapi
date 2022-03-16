@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_strategic_planning_strategic_plannings",
+  "info": {
+    "displayName": "strategicPlanning",
+    "icon": "angle-double-left"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

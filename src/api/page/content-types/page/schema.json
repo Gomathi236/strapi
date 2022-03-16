@@ -1,0 +1,73 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pages",
+  "info": {
+    "singularName": "page",
+    "pluralName": "pages",
+    "displayName": "page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "active": {
+      "type": "boolean",
+      "default": true
+    },
+    "Metadata": {
+      "type": "component",
+      "repeatable": false,
+      "component": "metadata.metadata"
+    },
+    "Contents": {
+      "type": "dynamiczone",
+      "components": [
+        "gallery.gallery"
+      ]
+    },
+    "Linkedininfo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "linkedininfo.linkedin-info"
+    },
+    "imagebanner": {
+      "type": "component",
+      "repeatable": false,
+      "component": "imagebanner.imagebanner"
+    },
+    "servicepietabs": {
+      "type": "component",
+      "repeatable": false,
+      "component": "service-pie-tabs.service-pie-tabs"
+    },
+    "childform": {
+      "type": "component",
+      "repeatable": false,
+      "component": "childform.childform"
+    },
+    "venuecarousal": {
+      "type": "component",
+      "repeatable": false,
+      "component": "venuecarousal.venue-carousel"
+    },
+    "venues": {
+      "type": "dynamiczone",
+      "components": [
+        "venuecarousal.venue-carousel"
+      ]
+    }
+  }
+}

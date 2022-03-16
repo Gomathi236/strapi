@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_service_pie_tabs_service_pie_tabs",
+  "info": {
+    "displayName": "ServicePieTabs",
+    "icon": "audio-description",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "gaCategory": {
+      "type": "string"
+    },
+    "cta": {
+      "type": "component",
+      "repeatable": false,
+      "component": "cta.cta"
+    }
+  }
+}

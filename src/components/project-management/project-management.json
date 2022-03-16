@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_project_management_project_managements",
+  "info": {
+    "displayName": "projectManagement",
+    "icon": "angle-double-right"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

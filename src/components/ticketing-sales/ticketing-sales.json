@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_ticketing_sales_ticketing_sales",
+  "info": {
+    "displayName": "ticketingSales",
+    "icon": "arrow-circle-down"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

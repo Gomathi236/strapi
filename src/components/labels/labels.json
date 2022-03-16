@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_labels_labels",
+  "info": {
+    "displayName": "labels",
+    "icon": "ankh"
+  },
+  "options": {},
+  "attributes": {
+    "ctaText": {
+      "type": "string"
+    }
+  }
+}

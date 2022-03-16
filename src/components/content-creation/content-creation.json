@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_content_creation_content_creations",
+  "info": {
+    "displayName": "contentCreation",
+    "icon": "angle-right"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

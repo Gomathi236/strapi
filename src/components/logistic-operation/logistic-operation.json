@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_logistic_operation_logistic_operations",
+  "info": {
+    "displayName": "logisticOperation",
+    "icon": "angle-up"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

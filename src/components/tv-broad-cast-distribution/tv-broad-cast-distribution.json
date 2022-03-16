@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_tv_broad_cast_distribution_tv_broad_cast_distributions",
+  "info": {
+    "displayName": "tvBroadCastDistribution",
+    "icon": "angry"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_data_data",
+  "info": {
+    "displayName": "data",
+    "icon": "archive",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "venuemanagement": {
+      "type": "component",
+      "repeatable": false,
+      "component": "venuemanagement.venuemanagement"
+    },
+    "talentprocurement": {
+      "type": "component",
+      "repeatable": false,
+      "component": "talentprocurement.talentprocurement"
+    }
+  }
+}

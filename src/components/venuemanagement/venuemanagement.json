@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_venuemanagement_venuemanagements",
+  "info": {
+    "displayName": "venuemanagement",
+    "icon": "arrow-left"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

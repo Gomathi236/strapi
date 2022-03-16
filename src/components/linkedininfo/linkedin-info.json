@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_linkedininfo_linkedin_infos",
+  "info": {
+    "displayName": "Linkedin info",
+    "icon": "allergies",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "gacategory": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "Linkedinid": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "cta": {
+      "type": "component",
+      "repeatable": false,
+      "component": "cta.cta"
+    }
+  }
+}
